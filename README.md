@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Weather Finder
+App created using React, you can find the weather detail entering the city name and country name.
 
-In the project directory, you can run:
+
+### Enter zip or city name and get the weather details.
+Contains the following
+- HTML, CSS, REACTJS
+- fetch the data using weather API
