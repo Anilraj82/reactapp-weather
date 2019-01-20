@@ -4,7 +4,7 @@ import Weather from "./component/Weather";
 import "./App.css";
 
 const API_KEY = "8068f201c554eaa83605d7d571034e28";
-const units = "metrics";
+const units = "metric";
 
 class App extends Component {
   state = {
